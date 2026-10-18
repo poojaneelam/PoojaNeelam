@@ -13,7 +13,7 @@ BTech CSE (Cybersecurity) student at VIT-AP. I learn by building, and I'm workin
 - [ARP Sentinel](https://github.com/poojaneelam/ARP-sentinal): defensive ARP-spoofing detector (Python, Scapy, Tkinter)
 - [Student Expense Tracker](https://github.com/poojaneelam/student-expense-tracker): desktop app (Python, SQLite, Tkinter)
 
-**Links:** [LinkedIn](https://www.linkedin.com/in/pooja-neelam-16552b3b1/) | [LeetCode](phttps://leetcode.com/u/PoojaNeelam/)
+**Links:** [LinkedIn](https://www.linkedin.com/in/pooja-neelam-16552b3b1/) | [LeetCode](https://leetcode.com/u/PoojaNeelam/)
 
 <!--
 **poojaneelam/PoojaNeelam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
